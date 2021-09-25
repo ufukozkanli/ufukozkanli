@@ -25,6 +25,7 @@
 * Teleradyolojide Doğal Dil İşleme ile Serbest Metin Verileri için Dil Denetim ve Tübitak (No:7180631)
 * Göz Bakışı Takip Tabanlı Radyoloji Eğitim Sistemi (KOSGEB destekli)
 * Teleradyoloji de Optimal İş Yülü Dağılımı (TUBITAK destekli)
+* Sanal Gerçeklik ile Oyunlaştırma Platformu (Fitness Uygulaması) (TUBITAK destekli)
 
 ## Software Quality Engineer
 * SPICE (ISO/IEC 15504) Standardization
