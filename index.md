@@ -14,7 +14,7 @@
 * Radiology Information System (rapor.proteksaglik.com)
 * Hospital Information System (hbys.proteksaglik.com)
 * Turkey Scout Federation Information System (tifotomasyon.com)
-* Turkey Scouts Mobile Application (emekdefterim IOS,Andorid)
+* Turkey Scouts Mobile Application (emekdefterim IOS,Android)
 
 
 ## R-D Software Project Leader
@@ -37,8 +37,8 @@
 
 
 # Academic Publication
-* M. E. Nergiz, M. Z. Gok and Ufuk Ozkanli, Preserving of Utility through Hybrid k–Anonymization. TrustBus: 97–111 2013.
-* S.Mercan and Ufuk Ozkanlı, Analyzing Funding Network in Turkey 2013
+* M. E. Nergiz, M. Z. Gok and Ufuk Ozkanli, Preserving of Utility through Hybrid k–Anonymization. TrustBus: 97–111 2013.([download](website/80580097.pdf))
+* S.Mercan and Ufuk Ozkanlı, Analyzing Funding Network in Turkey 2013 ([download](website/tubitakfunding.pdf))
 
 # Repositories
 * [bitbucket](https://bitbucket.com/ufukozkanli)
@@ -91,6 +91,7 @@
 *  [Linkedin](https://www.linkedin.com/in/ufukozkanli)
 *  [Facebook](https://www.facebook.com/ufukozkanli)
 *  [Website](https://ufukozkanli.com)
+*  [Google Scholar](https://scholar.google.com.tr/citations?user=jUl0huoAAAAJ)
 
 
 # Some Fun
