@@ -48,4 +48,4 @@
 
 
 # Some Fun
-* [fun1](fun1.md)
+* [fun1](/fun1.md)
