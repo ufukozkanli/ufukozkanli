@@ -91,7 +91,7 @@
 # Social
 *  [Linkedin](https://www.linkedin.com/in/ufukozkanli)
 *  [Facebook](https://www.facebook.com/ufukozkanli)
-*  [Website](https://ufukozkanli.com)
+*  [Personal Web](https://ufukozkanli.com)
 *  [Google Scholar](https://scholar.google.com.tr/citations?user=jUl0huoAAAAJ)
 
 
