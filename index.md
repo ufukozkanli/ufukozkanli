@@ -35,7 +35,9 @@
 * GÖRÜNTÜLER İLE ZENGİNLEŞTİRİLMİŞ RADYOLOJİ RAPORU SUNAN BİR RAPORLANDIRMA SİSTEMİ (Başvuru No:2019/09867)
 * İŞİTME VE KONUŞMA ENGELLİLER İÇİN BİR İLETİŞİM CİHAZI (Başvuru No: 2018/07395)
 
-
+# Projects
+* Real- or Near Real-Time Calculation of Porous Media Water Flow Velocities Using Particle Image Velocimetry (PIV) Method and Using The 2d Velocity Vector Fields in Verification of The Existing Porous Media Solute Transport Models
+  - [Youtube](https://www.youtube.com/channel/UC1wkGfb-f5-j06Kx5gXV3SQ)
 
 # Academic Publication
 * M. E. Nergiz, M. Z. Gok and Ufuk Ozkanli, Preserving of Utility through Hybrid k–Anonymization. TrustBus: 97–111 2013.([download](website/80580097.pdf))
