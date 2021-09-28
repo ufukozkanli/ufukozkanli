@@ -17,15 +17,23 @@
 * Turkey Scouts Mobile Application (emekdefterim IOS,Android)
 
 
-## R-D Software Project Leader
+## R-D Software Projects
 
 * [Continued] İş sağlığı Taramaları için Tıbbi Görüntü Analizi Temelli Karar Destek Sistemi (Tübitak Destekli)
 * [Continued] Tıbbi Görüntüler Üzerinden Covid-19 Teşhis Destek Ve Hastalik Gelişim Takip Sistemi (KOSGEB)
 * [Continued] Görüntü Analizi VE NLP YöNTEMLERİ İLE LOMBER MR RADYOLOJİ RAPORLARIN ZENGİNLEŞTİ (TübitakNo:7190397)
 * Teleradyolojide Doğal Dil İşleme ile Serbest Metin Verileri için Dil Denetim ve Tübitak (No:7180631)
 * Göz Bakışı Takip Tabanlı Radyoloji Eğitim Sistemi (KOSGEB destekli)
-* Teleradyoloji de Optimal İş Yülü Dağılımı (TUBITAK destekli)
+* Teleradyoloji de Optimal İş Yükü Dağılımı (TUBITAK destekli)
 * Sanal Gerçeklik ile Oyunlaştırma Platformu (Fitness Uygulaması) (TUBITAK destekli)
+* Real- or Near Real-Time Calculation of Porous Media Water Flow Velocities Using Particle Image Velocimetry (PIV) Method and Using The 2d Velocity Vector Fields in Verification of The Existing Porous Media Solute Transport Models
+  - [Youtube](https://www.youtube.com/channel/UC1wkGfb-f5-j06Kx5gXV3SQ)
+* VAST (Visibility Across Space and Time), a distributed platform for high-performance network forensics and incident response
+  - Duty: Sflow packet capturing implentation
+* Preservation of Utility in Anonymized Datasets
+  - Worked as application developer to implement K-Anonymity and L-Diversity algorithms
+* Secure Computation of the k-th Ranked Element over Shared Data and its Applications
+  -  Duty: Protocol Security Analyst
 
 ## Software Quality Engineer
 * SPICE (ISO/IEC 15504) Standardization
@@ -35,10 +43,7 @@
 * GÖRÜNTÜLER İLE ZENGİNLEŞTİRİLMİŞ RADYOLOJİ RAPORU SUNAN BİR RAPORLANDIRMA SİSTEMİ (Başvuru No:2019/09867)
 * İŞİTME VE KONUŞMA ENGELLİLER İÇİN BİR İLETİŞİM CİHAZI (Başvuru No: 2018/07395)
 
-# Projects
-* Real- or Near Real-Time Calculation of Porous Media Water Flow Velocities Using Particle Image Velocimetry (PIV) Method and Using The 2d Velocity Vector Fields in Verification of The Existing Porous Media Solute Transport Models
-  - [Youtube](https://www.youtube.com/channel/UC1wkGfb-f5-j06Kx5gXV3SQ)
-
+ 
 # Academic Publication
 * M. E. Nergiz, M. Z. Gok and Ufuk Ozkanli, Preserving of Utility through Hybrid k–Anonymization. TrustBus: 97–111 2013.([download](website/80580097.pdf))
 * S.Mercan and Ufuk Ozkanlı, Analyzing Funding Network in Turkey 2013 ([download](website/tubitakfunding.pdf))
