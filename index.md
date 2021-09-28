@@ -20,7 +20,7 @@
 ## R-D Software Projects
 
 * [Continued] İş sağlığı Taramaları için Tıbbi Görüntü Analizi Temelli Karar Destek Sistemi (Tübitak Destekli)
-* [Continued] Tıbbi Görüntüler Üzerinden Covid-19 Teşhis Destek Ve Hastalik Gelişim Takip Sistemi (KOSGEB)
+* [Continued] Tıbbi Görüntüler Üzerinden Covid-19 Teşhis Destek Ve Hastalik Gelişim Takip Sistemi (KOSGEB) 
 * [Continued] Görüntü Analizi VE NLP YöNTEMLERİ İLE LOMBER MR RADYOLOJİ RAPORLARIN ZENGİNLEŞTİ (TübitakNo:7190397)
 * Teleradyolojide Doğal Dil İşleme ile Serbest Metin Verileri için Dil Denetim ve Tübitak (No:7180631)
 * Göz Bakışı Takip Tabanlı Radyoloji Eğitim Sistemi (KOSGEB destekli)
